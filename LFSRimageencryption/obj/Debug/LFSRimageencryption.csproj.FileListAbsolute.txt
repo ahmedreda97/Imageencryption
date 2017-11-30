@@ -1,0 +1,7 @@
+C:\Users\Ahmed reda\source\repos\LFSRimageencryption\LFSRimageencryption\bin\Debug\LFSRimageencryption.exe.config
+C:\Users\Ahmed reda\source\repos\LFSRimageencryption\LFSRimageencryption\bin\Debug\LFSRimageencryption.exe
+C:\Users\Ahmed reda\source\repos\LFSRimageencryption\LFSRimageencryption\bin\Debug\LFSRimageencryption.pdb
+C:\Users\Ahmed reda\source\repos\LFSRimageencryption\LFSRimageencryption\obj\Debug\LFSRimageencryption.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed reda\source\repos\LFSRimageencryption\LFSRimageencryption\obj\Debug\LFSRimageencryption.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed reda\source\repos\LFSRimageencryption\LFSRimageencryption\obj\Debug\LFSRimageencryption.exe
+C:\Users\Ahmed reda\source\repos\LFSRimageencryption\LFSRimageencryption\obj\Debug\LFSRimageencryption.pdb
